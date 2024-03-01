@@ -12,6 +12,8 @@
 <code><img class="image-class" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px" style="mix-blend-mode: lighten"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px" style="mix-blend-mode: lighten"></code><a href="https://visitcount.itsvg.in">
-###https://www.freepnglogos.com/images/html5-logo-31815.html
-<code><img src="[https://www.postgresql.org/media/img/about/press/elephant.png](https://www.freepnglogos.com/images/html5-logo-31815.html)" width="35px" style="mix-blend-mode: lighten"></code><a href="https://visitcount.itsvg.in">
+https://www.freepnglogos.com/images/html5-logo-31815.html
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Javohir0411&label=HTML&pretty=false" />
+</a>
 
