@@ -12,4 +12,5 @@
 <code><img class="image-class" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="30px" style="mix-blend-mode: lighten"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px" style="mix-blend-mode: lighten"></code><a href="https://visitcount.itsvg.in">
+<code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="35px" style="mix-blend-mode: lighten"></code><a href="https://visitcount.itsvg.in">
 
