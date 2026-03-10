@@ -128,3 +128,9 @@ https://t.me/javohir_abduhakimoff
 
 GitHub:
 https://github.com/Javohir0411
+
+## 📊 GitHub Stats
+
+![Javohir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javohir0411&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javohir0411&layout=compact&theme=dark)
