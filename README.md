@@ -18,33 +18,23 @@ PostgreSQL bilan samarali ishlash, API integratsiya qilish va backend tizimlarni
 
 **Backend**
 
-Python
-FastAPI
-Django
-Django REST Framework
+Python | FastAPI | Django | Django REST Framework
 
 **Database**
 
-PostgreSQL
-SQLite
+PostgreSQL | SQLite
 
 **Tools**
 
-SQLAlchemy
-Alembic
-Docker
-Git / GitHub
+SQLAlchemy | Alembic | Docker | Git / GitHub
 
 **Automation**
 
-Telegram Bots (Aiogram)
-REST API integrations
+Telegram Bots (Aiogram) | REST API integrations
 
 **Frontend Basics**
 
-HTML
-CSS
-Bootstrap
+HTML | CSS | Bootstrap
 
 ---
 
