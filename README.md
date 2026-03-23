@@ -18,7 +18,7 @@ PostgreSQL bilan samarali ishlash, API integratsiya qilish va backend tizimlarni
 
 **Backend**
 
-Python | FastAPI | Django | Django REST Framework
+Python | FastAPI | Django | Django REST Framework | WebSocket
 
 **Database**
 
